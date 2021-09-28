@@ -1,1 +1,1 @@
-This is a personal project where I Will walk through the data analytical process on a Cancer data from Kaggle.
+In this project, the Winconsin Breast Cancer data was thoughroughly analyzed and the Logistic Regression Machine learning algorithm was applied to model the diagnosis of breast cancer cells. The question we tend to answer is: Given a breast cancer cell diagnosis, how well can you if it 'Malignant' or 'Benign'?
